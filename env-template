@@ -1,2 +1,4 @@
-WSS_PROVIDER_URL=<your provider url>
-PRIVATE_KEY=<your wallet private key here>
+API_URL="https://eth-ropsten.alchemyapi.io/v2/<apikey>"
+PRIVATE_KEY=
+CONTRACT_ADDRESS=
+MY_ACCOUNT=
